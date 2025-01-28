@@ -2,4 +2,4 @@
 
 Here's a sample video:
 
-![Sample Video](ant_left.mp4)
+![Sample Video](render/ant_left.mp4)
