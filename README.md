@@ -2,4 +2,4 @@
 
 Here's a sample video:
 
-![Sample Video](img/markdown_video.mp4)
+![Sample Video](ant_left.mp4)
