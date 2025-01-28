@@ -2,4 +2,4 @@
 
 Here's a sample video:
 
-![Sample Video](render/ant_left.mp4)
+![image](https://github.com/YourUsername/YourRepo/blob/master/public/image/yourimage.png)
