@@ -4,7 +4,7 @@ We adjust the weighting of the goal velocity and employ SAC (Soft Actor-Critic) 
 
 ![image](https://github.com/ContextFormer/render/blob/main/che_multi_velocity.png)
 
-We reformualte the reward function from r=x to r=(x^2+y^2)^0.5, and subsequently train SAC to gather offline datasets. Following this, we employ contrastive learning to train the information-static value．　Meanwhile, we proceed to train our ContextFormer model. 
+We reformualte the reward function from r=x to r=(x^2+y^2)^0.5, and subsequently train SAC to gather offline datasets. Following this, we employ contrastive learning to train the information-static value．　Meanwhile, we proceed to train our ContextFormer model.vGiven different information static values, ContextFormer can generate two different trajectories: one moving to the right and one moving to the right-south.
 
 ![image](https://github.com/ContextFormer/render/blob/main/ant_left.png)
 
