@@ -2,4 +2,4 @@
 
 Here's a sample video:
 
-![image](render/che_multi_velocity.png)
+![image](che_multi_velocity.png)
