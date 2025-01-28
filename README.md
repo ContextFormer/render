@@ -7,4 +7,5 @@ We adjust the weighting of the goal velocity and employ SAC (Soft Actor-Critic) 
 We reformualte the reward function from r=x to r=(x^2+y^2)^0.5, then training SAC to collect offline datasets. And then train the information static value via contrasive learning, and then train our ContextFormer. 
 
 ![image](https://github.com/ContextFormer/render/blob/main/ant_left.png)
+
 ![image](https://github.com/ContextFormer/render/blob/main/ant_left_sourth.png)
