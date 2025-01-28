@@ -2,4 +2,4 @@
 
 Here's a sample video:
 
-![image](che_multi_velocity.png)
+![image](https://github.com/ContextFormer/render/blob/main/che_multi_velocity.png)
